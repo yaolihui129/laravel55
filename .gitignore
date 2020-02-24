@@ -1,5 +1,6 @@
 vendor/
 node_modules/
+.settings/
 npm-debug.log
 
 # Laravel 4 specific
@@ -13,6 +14,8 @@ storage/*.key
 .env.*.php
 .env.php
 .env
+.buildpath
+.project
 Homestead.yaml
 Homestead.json
 
